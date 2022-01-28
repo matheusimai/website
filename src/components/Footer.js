@@ -9,14 +9,14 @@ const Footer = () => {
         <div className="flex justify-between items-center text-lg pt-5">
           <h2 className="text-stone-300">Built with Next.js and Tailwind.</h2>
             <nav className="flex gap-1 space-x-6">
-              <Link href="#">
+              <Link href="https://github.com/matheusimai">
                 <a className="text-stone-300 justify-between flex items-center gap-1 underline decoration-stone-300/0 hover:decoration-stone-300/100 transition hover:delay-75">
                   <FaGithub />
                   <h2>GitHub</h2>
                 </a>
 
               </Link>
-              <Link href="#">
+              <Link href="https://www.linkedin.com/in/matheus-imai">
                 <a className="text-stone-300 justify-between flex items-center gap-1 underline decoration-stone-300/0 hover:decoration-stone-300/100 transition hover:delay-75">
                   <FaLinkedin />
                   <h2>LinkedIn</h2>

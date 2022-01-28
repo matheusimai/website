@@ -22,7 +22,7 @@ const Header = () => {
               </a>
             </Link>
           
-            <Link href="#">
+            <Link href="https://github.com/matheusimai/website">
               <a className="text-stone-200 justify-between flex items-center gap-1 underline decoration-stone-200/0 hover:decoration-stone-200/100 transition hover:delay-75">
                 <FaGithub />
                 <h1>Source</h1>
